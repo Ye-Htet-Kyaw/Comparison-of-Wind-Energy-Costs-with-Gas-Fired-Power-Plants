@@ -1,4 +1,4 @@
-# Comparison-of-Wind-Energy-Costs-with-Gas-Fired-Power-Plants
+# Comparison-of-Wind-Energy-Costs-with-Gas-Fired-Power-Plants (Feb-2024, 1<sup>st</sup> semester)
 ## Project Summary
 This repository contains a comparative economic analysis of renewable energy (Wind) versus fossil-fuel generation (Natural Gas). The study focuses on the Levelized Cost of Energy (LCOE), capital expenditure (CAPEX), and the sensitivity of these costs to geopolitical shifts and fuel price volatility.
 
